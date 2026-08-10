@@ -1,3 +1,4 @@
+```​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 Blorunner
 
 Blorunner is an abstract multiplayer social Capture-the-Flag (CTF) style game that uses Facebook Login for authentication. Players form teams (Attackers vs Defenders) and compete in infiltration / exfiltration rounds set in suburban or urban environments. The game features automatic handicaps for uneven teams, RPG-style character stats, fictional poster targets, and an in-game Credit economy.
@@ -25,7 +26,7 @@ Tech Stack
 - Session Management: express-session
 
 Project Structure
-```​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+
 blorunner/
 ├── config/
 │   └── passport.js
