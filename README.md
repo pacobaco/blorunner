@@ -25,7 +25,7 @@ Tech Stack
 - Session Management: express-session
 
 Project Structure
-
+```​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 blorunner/
 ├── config/
 │   └── passport.js
@@ -46,7 +46,7 @@ blorunner/
 ├── package.json
 ├── README.md
 └── server.js
-
+```​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
 Getting Started
 
 Prerequisites
